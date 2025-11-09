@@ -1,34 +1,7 @@
 {
-  "account_risk": {
-    "max_daily_loss_percent": 2.0,
-    "max_total_loss_percent": 10.0,
-    "max_position_size_percent": 5.0,
-    "max_correlation_exposure": 15.0
-  },
-  "position_sizing": {
-    "base_risk_per_trade": 1.0,
-    "confidence_multiplier": {
-      "high": 1.5,
-      "medium": 1.0,
-      "low": 0.5
-    },
-    "volatility_adjustment": true,
-    "kelly_criterion": false,
-    "fixed_fractional": true
-  },
-  "stop_loss": {
-    "atr_multiplier": 2.0,
-    "percentage_stop": false,
-    "use_support_resistance": true,
-    "break_even_at_r": 1.0,
-    "trailing_start_at_r": 1.5
-  },
-  "take_profit": {
-    "risk_reward_ratio": 1.5,
-    "partial_profit_booking": true,
-    "partial_1_percent": 50,
-    "partial_1_at_r": 1.0,
-    "partial_2_percent": 25,
-    "partial_2_at_r": 2.0
-  }
+  "risk_per_trade": 0.005,
+  "max_daily_trades": 8,
+  "max_daily_loss": 0.02,
+  "max_drawdown": 0.1,
+  "emergency_stop_loss": 0.05
 }

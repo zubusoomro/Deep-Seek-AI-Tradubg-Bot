@@ -1,0 +1,32 @@
+# config/gold_scalping.yaml
+symbol: "XAUUSD"
+timeframe: "M15"
+trading_mode: "scalping"
+
+risk_config:
+  risk_per_trade: 0.005  # 0.5%
+  max_daily_trades: 8
+  max_daily_loss: 0.02   # 2%
+  min_confidence: 0.60   # 60% confidence required
+
+trading_sessions:
+  london_open: "08:00"
+  london_close: "16:00"
+  ny_open: "13:00" 
+  ny_close: "21:00"
+  avoid_fomo: ["14:30-15:00", "19:00-20:00"]  # High impact news
+
+position_management:
+  breakeven_trigger: 1.0  # Move to breakeven at 1R profit
+  partial_profit_levels:
+    - { profit_ratio: 0.5, close_percent: 50 }  # Take 50% at 0.5R
+    - { profit_ratio: 1.5, close_percent: 25 }  # Take 25% at 1.5R
+    - { profit_ratio: 2.0, close_percent: 25 }  # Take 25% at 2R
+  trailing_stop: true
+  trailing_activation: 1.5  # Activate trailing at 1.5R
+
+ml_config:
+  features: 8
+  primary_model: "lightgbm"
+  retrain_interval: 100  # trades
+  min_confidence_threshold: 0.60

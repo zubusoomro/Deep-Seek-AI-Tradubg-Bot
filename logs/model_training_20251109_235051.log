@@ -1,0 +1,11 @@
+2025-11-09 23:50:51,984 - ConfigManager - INFO - Creating default gold_scalping.yaml
+2025-11-09 23:50:51,985 - ConfigManager - INFO - Loading gold config from: J:\Trading\Deep-Seek-AI-Tradubg-Bot\config\gold_scalping.yaml
+2025-11-09 23:50:51,994 - ConfigManager - INFO - Gold config loaded successfully
+2025-11-09 23:50:51,994 - ConfigManager - INFO - Loading risk config from: J:\Trading\Deep-Seek-AI-Tradubg-Bot\config\risk_config.json
+2025-11-09 23:50:51,995 - ConfigManager - INFO - Risk config loaded successfully
+2025-11-09 23:50:51,995 - ConfigManager - INFO - ConfigManager initialized with config path: J:\Trading\Deep-Seek-AI-Tradubg-Bot\config
+2025-11-09 23:50:51,995 - ModelTraining - INFO - Connecting to MT5...
+2025-11-09 23:50:51,996 - GoldDataFetcher - INFO - Attempting MT5 connection - Login: 0, Server: 
+2025-11-09 23:50:51,996 - GoldDataFetcher - ERROR - MT5 credentials not found in environment variables
+2025-11-09 23:50:51,996 - GoldDataFetcher - ERROR - Please set MT5_LOGIN, MT5_PASSWORD, and MT5_SERVER in your .env file
+2025-11-09 23:50:51,996 - ModelTraining - ERROR - Failed to connect to MT5

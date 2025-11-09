@@ -1,0 +1,31 @@
+symbol: "XAUUSD"
+timeframe: "M15"
+trading_mode: "scalping"
+
+risk_config:
+  risk_per_trade: 0.005
+  max_daily_trades: 8
+  max_daily_loss: 0.02
+  min_confidence: 0.60
+
+trading_sessions:
+  london_open: "08:00"
+  london_close: "16:00"
+  ny_open: "13:00"
+  ny_close: "21:00"
+  avoid_fomo: ["14:30-15:00", "19:00-20:00"]
+
+position_management:
+  breakeven_trigger: 1.0
+  partial_profit_levels:
+    - { profit_ratio: 0.5, close_percent: 50 }
+    - { profit_ratio: 1.5, close_percent: 25 }
+    - { profit_ratio: 2.0, close_percent: 25 }
+  trailing_stop: true
+  trailing_activation: 1.5
+
+ml_config:
+  features: 8
+  primary_model: "lightgbm"
+  retrain_interval: 100
+  min_confidence_threshold: 0.60
