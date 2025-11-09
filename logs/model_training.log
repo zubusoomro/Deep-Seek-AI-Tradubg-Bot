@@ -1,0 +1,351 @@
+2025-11-09 01:49:10,116 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 01:49:10,579 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 01:49:10,633 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 01:49:10,654 - MT5DataManager - WARNING - No data returned for XAUUSD H1
+2025-11-09 01:49:10,672 - MT5DataManager - WARNING - No data returned for USDJPY H1
+2025-11-09 01:49:10,689 - MT5DataManager - WARNING - No data returned for EURUSD H1
+2025-11-09 01:49:10,699 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 01:50:25,654 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 01:50:25,964 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 01:50:25,979 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 01:50:25,999 - MT5DataManager - WARNING - No data returned for XAUUSD H1
+2025-11-09 01:50:26,018 - MT5DataManager - WARNING - No data returned for USDJPY H1
+2025-11-09 01:50:26,037 - MT5DataManager - WARNING - No data returned for EURUSD H1
+2025-11-09 01:50:26,047 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 01:52:08,971 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 01:52:09,267 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 01:52:09,282 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 01:52:09,298 - MT5DataManager - WARNING - No data returned for XAUUSD H1
+2025-11-09 01:52:09,314 - MT5DataManager - WARNING - No data returned for USDJPY H1
+2025-11-09 01:52:09,331 - MT5DataManager - WARNING - No data returned for EURUSD H1
+2025-11-09 01:52:09,344 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 01:56:26,867 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 01:56:27,164 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 01:56:27,178 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 01:57:35,184 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 01:58:21,327 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 01:58:21,621 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 01:58:21,632 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 01:58:25,777 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:01:54,009 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:01:54,305 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:01:54,316 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:02:01,361 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:04:50,637 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:04:50,949 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:04:50,959 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:04:57,962 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:08:00,645 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:08:00,956 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:08:00,967 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:08:07,895 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:12:42,524 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:12:42,821 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:12:42,831 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:12:49,674 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:15:37,357 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:15:37,656 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:15:37,668 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:15:44,757 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:17:21,915 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:17:22,215 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:17:22,229 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:17:29,156 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:19:44,203 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:19:44,604 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:19:44,604 - ModelTraining - INFO - Connecting to MT5...
+2025-11-09 02:19:44,617 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:19:44,618 - ModelTraining - INFO - Training models for symbols: ['XAUUSD.s', 'USDJPY.s', 'EURUSD.s']
+2025-11-09 02:19:44,618 - ModelTraining - INFO - Starting model training for XAUUSD.s...
+2025-11-09 02:19:44,618 - ModelTraining - INFO - Fetching historical data for XAUUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:19:44,625 - ModelTraining - INFO - Generating features...
+2025-11-09 02:19:47,507 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:19:47,508 - ModelTraining - ERROR - Error training model for XAUUSD.s: 'EnhancedMLEngine' object has no attribute 'model_trainer'
+2025-11-09 02:19:47,508 - ModelTraining - INFO - Starting model training for USDJPY.s...
+2025-11-09 02:19:47,508 - ModelTraining - INFO - Fetching historical data for USDJPY.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:19:47,511 - ModelTraining - INFO - Generating features...
+2025-11-09 02:19:50,357 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:19:50,357 - ModelTraining - ERROR - Error training model for USDJPY.s: 'EnhancedMLEngine' object has no attribute 'model_trainer'
+2025-11-09 02:19:50,358 - ModelTraining - INFO - Starting model training for EURUSD.s...
+2025-11-09 02:19:50,358 - ModelTraining - INFO - Fetching historical data for EURUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:19:50,361 - ModelTraining - INFO - Generating features...
+2025-11-09 02:19:53,239 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:19:53,239 - ModelTraining - ERROR - Error training model for EURUSD.s: 'EnhancedMLEngine' object has no attribute 'model_trainer'
+2025-11-09 02:19:53,241 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:19:53,241 - ModelTraining - INFO - Model training completed!
+2025-11-09 02:21:05,300 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:21:05,595 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:21:05,595 - ModelTraining - INFO - Connecting to MT5...
+2025-11-09 02:21:05,604 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:21:05,604 - ModelTraining - INFO - Training models for symbols: ['XAUUSD.s', 'USDJPY.s', 'EURUSD.s']
+2025-11-09 02:21:05,604 - ModelTraining - INFO - Starting model training for XAUUSD.s...
+2025-11-09 02:21:05,604 - ModelTraining - INFO - Fetching historical data for XAUUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:21:05,608 - ModelTraining - INFO - Generating features...
+2025-11-09 02:21:07,861 - ModelTraining - ERROR - Error training model for XAUUSD.s: 'numpy.ndarray' object has no attribute 'empty'
+2025-11-09 02:21:07,861 - ModelTraining - INFO - Starting model training for USDJPY.s...
+2025-11-09 02:21:07,861 - ModelTraining - INFO - Fetching historical data for USDJPY.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:21:07,864 - ModelTraining - INFO - Generating features...
+2025-11-09 02:21:10,105 - ModelTraining - ERROR - Error training model for USDJPY.s: 'numpy.ndarray' object has no attribute 'empty'
+2025-11-09 02:21:10,105 - ModelTraining - INFO - Starting model training for EURUSD.s...
+2025-11-09 02:21:10,106 - ModelTraining - INFO - Fetching historical data for EURUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:21:10,109 - ModelTraining - INFO - Generating features...
+2025-11-09 02:21:12,373 - ModelTraining - ERROR - Error training model for EURUSD.s: 'numpy.ndarray' object has no attribute 'empty'
+2025-11-09 02:21:12,376 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:21:12,376 - ModelTraining - INFO - Model training completed!
+2025-11-09 02:21:48,594 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:21:48,899 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:21:48,899 - ModelTraining - INFO - Connecting to MT5...
+2025-11-09 02:21:48,908 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:21:48,909 - ModelTraining - INFO - Training models for symbols: ['XAUUSD.s', 'USDJPY.s', 'EURUSD.s']
+2025-11-09 02:21:48,909 - ModelTraining - INFO - Starting model training for XAUUSD.s...
+2025-11-09 02:21:48,910 - ModelTraining - INFO - Fetching historical data for XAUUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:21:48,915 - ModelTraining - INFO - Generating features...
+2025-11-09 02:21:51,194 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:21:51,194 - ModelTraining - ERROR - Error training model for XAUUSD.s: 'EnhancedMLEngine' object has no attribute 'model_trainer'
+2025-11-09 02:21:51,194 - ModelTraining - INFO - Starting model training for USDJPY.s...
+2025-11-09 02:21:51,195 - ModelTraining - INFO - Fetching historical data for USDJPY.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:21:51,197 - ModelTraining - INFO - Generating features...
+2025-11-09 02:21:53,473 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:21:53,474 - ModelTraining - ERROR - Error training model for USDJPY.s: 'EnhancedMLEngine' object has no attribute 'model_trainer'
+2025-11-09 02:21:53,474 - ModelTraining - INFO - Starting model training for EURUSD.s...
+2025-11-09 02:21:53,475 - ModelTraining - INFO - Fetching historical data for EURUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:21:53,478 - ModelTraining - INFO - Generating features...
+2025-11-09 02:21:55,816 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:21:55,816 - ModelTraining - ERROR - Error training model for EURUSD.s: 'EnhancedMLEngine' object has no attribute 'model_trainer'
+2025-11-09 02:21:55,818 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:21:55,818 - ModelTraining - INFO - Model training completed!
+2025-11-09 02:31:47,454 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:31:47,490 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 02:31:47,775 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:31:47,775 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 02:31:47,775 - ModelTraining - INFO - Connecting to MT5...
+2025-11-09 02:31:47,784 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:31:47,784 - ModelTraining - INFO - Training models for symbols: ['XAUUSD.s', 'USDJPY.s', 'EURUSD.s']
+2025-11-09 02:31:47,785 - ModelTraining - INFO - Starting model training for XAUUSD.s...
+2025-11-09 02:31:47,785 - ModelTraining - INFO - Fetching historical data for XAUUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:31:47,789 - ModelTraining - INFO - Generating features...
+2025-11-09 02:31:50,132 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:31:50,133 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:31:50,164 - ModelTrainer - INFO - Class distribution: {0: 1243, 1: 1944, 2: 1714}
+2025-11-09 02:31:50,164 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:31:50,165 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:31:50,166 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:31:50,190 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:31:50,193 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:31:52,411 - ModelTrainer - ERROR - Error in neural network training: input.size(-1) must be equal to input_size. Expected 45, got 796
+2025-11-09 02:31:52,411 - ModelTraining - ERROR - Failed to train model for XAUUSD.s
+2025-11-09 02:31:52,417 - ModelTraining - INFO - Starting model training for USDJPY.s...
+2025-11-09 02:31:52,418 - ModelTraining - INFO - Fetching historical data for USDJPY.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:31:52,422 - ModelTraining - INFO - Generating features...
+2025-11-09 02:31:54,732 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:31:54,732 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:31:54,744 - ModelTrainer - INFO - Class distribution: {0: 965, 1: 2995, 2: 941}
+2025-11-09 02:31:54,745 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:31:54,745 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:31:54,746 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:31:54,770 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:31:54,772 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:31:54,780 - ModelTrainer - ERROR - Error in neural network training: input.size(-1) must be equal to input_size. Expected 45, got 796
+2025-11-09 02:31:54,781 - ModelTraining - ERROR - Failed to train model for USDJPY.s
+2025-11-09 02:31:54,786 - ModelTraining - INFO - Starting model training for EURUSD.s...
+2025-11-09 02:31:54,786 - ModelTraining - INFO - Fetching historical data for EURUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:31:54,790 - ModelTraining - INFO - Generating features...
+2025-11-09 02:31:57,164 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:31:57,164 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:31:57,176 - ModelTrainer - INFO - Class distribution: {0: 660, 1: 3522, 2: 719}
+2025-11-09 02:31:57,177 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:31:57,178 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:31:57,178 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:31:57,201 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:31:57,203 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:31:57,213 - ModelTrainer - ERROR - Error in neural network training: input.size(-1) must be equal to input_size. Expected 45, got 796
+2025-11-09 02:31:57,214 - ModelTraining - ERROR - Failed to train model for EURUSD.s
+2025-11-09 02:31:57,223 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:31:57,224 - ModelTraining - INFO - Model training completed!
+2025-11-09 02:38:17,983 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:38:18,007 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 02:38:18,043 - MLEngine - WARNING - Could not determine feature size, using default 45
+2025-11-09 02:38:18,328 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:38:18,328 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 02:38:18,329 - ModelTraining - INFO - Connecting to MT5...
+2025-11-09 02:38:18,339 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:38:18,339 - ModelTraining - INFO - Training models for symbols: ['XAUUSD.s', 'USDJPY.s', 'EURUSD.s']
+2025-11-09 02:38:18,340 - ModelTraining - INFO - Starting model training for XAUUSD.s...
+2025-11-09 02:38:18,340 - ModelTraining - INFO - Fetching historical data for XAUUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:38:18,345 - ModelTraining - INFO - Generating features...
+2025-11-09 02:38:20,637 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:38:20,637 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:38:20,652 - ModelTrainer - INFO - Class distribution: {0: 1243, 1: 1944, 2: 1714}
+2025-11-09 02:38:20,652 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:38:20,653 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:38:20,654 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:38:20,678 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:38:20,680 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:38:22,147 - ModelTrainer - ERROR - Error in neural network training: input.size(-1) must be equal to input_size. Expected 45, got 796
+2025-11-09 02:38:22,147 - ModelTraining - ERROR - Failed to train model for XAUUSD.s
+2025-11-09 02:38:22,153 - ModelTraining - INFO - Starting model training for USDJPY.s...
+2025-11-09 02:38:22,153 - ModelTraining - INFO - Fetching historical data for USDJPY.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:38:22,157 - ModelTraining - INFO - Generating features...
+2025-11-09 02:38:24,459 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:38:24,459 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:38:24,470 - ModelTrainer - INFO - Class distribution: {0: 965, 1: 2995, 2: 941}
+2025-11-09 02:38:24,470 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:38:24,471 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:38:24,472 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:38:24,493 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:38:24,496 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:38:24,503 - ModelTrainer - ERROR - Error in neural network training: input.size(-1) must be equal to input_size. Expected 45, got 796
+2025-11-09 02:38:24,504 - ModelTraining - ERROR - Failed to train model for USDJPY.s
+2025-11-09 02:38:24,509 - ModelTraining - INFO - Starting model training for EURUSD.s...
+2025-11-09 02:38:24,509 - ModelTraining - INFO - Fetching historical data for EURUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:38:24,513 - ModelTraining - INFO - Generating features...
+2025-11-09 02:38:26,892 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:38:26,892 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:38:26,903 - ModelTrainer - INFO - Class distribution: {0: 660, 1: 3522, 2: 719}
+2025-11-09 02:38:26,904 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:38:26,905 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:38:26,905 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:38:26,926 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:38:26,928 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:38:26,939 - ModelTrainer - ERROR - Error in neural network training: input.size(-1) must be equal to input_size. Expected 45, got 796
+2025-11-09 02:38:26,940 - ModelTraining - ERROR - Failed to train model for EURUSD.s
+2025-11-09 02:38:26,951 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:38:26,951 - ModelTraining - INFO - Model training completed!
+2025-11-09 02:48:10,300 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:48:10,325 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 02:48:10,619 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:48:10,619 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 02:48:10,620 - ModelTraining - INFO - Connecting to MT5...
+2025-11-09 02:48:10,630 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:48:10,630 - ModelTraining - INFO - Training models for symbols: ['XAUUSD.s', 'USDJPY.s', 'EURUSD.s']
+2025-11-09 02:48:10,631 - ModelTraining - INFO - Starting model training for XAUUSD.s...
+2025-11-09 02:48:10,631 - ModelTraining - INFO - Fetching historical data for XAUUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:48:10,637 - ModelTraining - INFO - Generating features...
+2025-11-09 02:48:12,912 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:48:12,913 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:48:12,925 - ModelTrainer - INFO - Class distribution: {0: 1243, 1: 1944, 2: 1714}
+2025-11-09 02:48:12,926 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:48:12,926 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:48:12,927 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:48:12,950 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:48:12,953 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:48:14,672 - ModelTrainer - ERROR - Error in neural network training: Given normalized_shape=[256], expected input with shape [*, 256], but got input of size[32, 128]
+2025-11-09 02:48:14,673 - ModelTraining - ERROR - Failed to train model for XAUUSD.s
+2025-11-09 02:48:14,678 - ModelTraining - INFO - Starting model training for USDJPY.s...
+2025-11-09 02:48:14,678 - ModelTraining - INFO - Fetching historical data for USDJPY.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:48:14,682 - ModelTraining - INFO - Generating features...
+2025-11-09 02:48:16,949 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:48:16,949 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:48:16,959 - ModelTrainer - INFO - Class distribution: {0: 965, 1: 2995, 2: 941}
+2025-11-09 02:48:16,960 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:48:16,960 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:48:16,960 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:48:16,983 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:48:16,986 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:48:16,996 - ModelTrainer - ERROR - Error in neural network training: Given normalized_shape=[256], expected input with shape [*, 256], but got input of size[32, 128]
+2025-11-09 02:48:16,997 - ModelTraining - ERROR - Failed to train model for USDJPY.s
+2025-11-09 02:48:17,002 - ModelTraining - INFO - Starting model training for EURUSD.s...
+2025-11-09 02:48:17,003 - ModelTraining - INFO - Fetching historical data for EURUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:48:17,006 - ModelTraining - INFO - Generating features...
+2025-11-09 02:48:19,365 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:48:19,365 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:48:19,377 - ModelTrainer - INFO - Class distribution: {0: 660, 1: 3522, 2: 719}
+2025-11-09 02:48:19,377 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:48:19,378 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:48:19,379 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:48:19,401 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:48:19,403 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:48:19,416 - ModelTrainer - ERROR - Error in neural network training: Given normalized_shape=[256], expected input with shape [*, 256], but got input of size[32, 128]
+2025-11-09 02:48:19,416 - ModelTraining - ERROR - Failed to train model for EURUSD.s
+2025-11-09 02:48:19,426 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:48:19,427 - ModelTraining - INFO - Model training completed!
+2025-11-09 02:51:30,966 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 02:51:30,993 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 02:51:31,353 - MLEngine - INFO - ML Engine initialized with device: cuda
+2025-11-09 02:51:31,353 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 02:51:31,354 - ModelTraining - INFO - Connecting to MT5...
+2025-11-09 02:51:31,363 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 02:51:31,363 - ModelTraining - INFO - Training models for symbols: ['XAUUSD.s', 'USDJPY.s', 'EURUSD.s']
+2025-11-09 02:51:31,364 - ModelTraining - INFO - Starting model training for XAUUSD.s...
+2025-11-09 02:51:31,364 - ModelTraining - INFO - Fetching historical data for XAUUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:51:31,370 - ModelTraining - INFO - Generating features...
+2025-11-09 02:51:34,142 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:51:34,142 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:51:34,156 - ModelTrainer - INFO - Class distribution: {0: 1243, 1: 1944, 2: 1714}
+2025-11-09 02:51:34,156 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:51:34,157 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:51:34,157 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:51:34,190 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:51:34,192 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:51:40,749 - ModelTrainer - INFO - New best model saved with val_loss: 1.0529
+2025-11-09 02:51:40,749 - ModelTrainer - INFO - Epoch 0/100: Train Loss: 1.0881, Val Loss: 1.0529, Train Acc: 0.3912, Val Acc: 0.4644, LR: 0.001000, Patience: 0/25
+2025-11-09 02:51:49,061 - ModelTrainer - INFO - New best model saved with val_loss: 1.0483
+2025-11-09 02:51:53,218 - ModelTrainer - INFO - New best model saved with val_loss: 1.0446
+2025-11-09 02:52:21,155 - ModelTrainer - INFO - Epoch 10/100: Train Loss: 1.0848, Val Loss: 1.0489, Train Acc: 0.3995, Val Acc: 0.4644, LR: 0.001000, Patience: 7/25
+2025-11-09 02:52:29,601 - ModelTrainer - INFO - New best model saved with val_loss: 1.0444
+2025-11-09 02:53:01,525 - ModelTrainer - INFO - Epoch 20/100: Train Loss: 1.0853, Val Loss: 1.0448, Train Acc: 0.3995, Val Acc: 0.4644, LR: 0.001000, Patience: 8/25
+2025-11-09 02:53:41,621 - ModelTrainer - INFO - Epoch 30/100: Train Loss: 1.0842, Val Loss: 1.0462, Train Acc: 0.3995, Val Acc: 0.4644, LR: 0.000500, Patience: 18/25
+2025-11-09 02:54:09,697 - ModelTrainer - INFO - Early stopping triggered at epoch 37
+2025-11-09 02:54:10,000 - ModelTrainer - INFO - Model Evaluation - Accuracy: 0.2277, F1: 0.0844
+2025-11-09 02:54:10,001 - ModelTrainer - INFO - Neural network training completed successfully
+2025-11-09 02:54:10,003 - ModelTraining - INFO - Successfully trained XAUUSD.s model
+2025-11-09 02:54:10,003 - ModelTraining - INFO - Model Performance - Accuracy: 0.2277, F1: 0.0844
+2025-11-09 02:54:10,324 - ModelTrainer - INFO - Model saved to models/XAUUSD.s_model.pth
+2025-11-09 02:54:15,938 - ModelTrainer - INFO - Training visualization saved to models/XAUUSD.s_training_history.png
+2025-11-09 02:54:15,950 - ModelTraining - INFO - Starting model training for USDJPY.s...
+2025-11-09 02:54:15,950 - ModelTraining - INFO - Fetching historical data for USDJPY.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:54:15,955 - ModelTraining - INFO - Generating features...
+2025-11-09 02:54:18,424 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:54:18,425 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:54:18,436 - ModelTrainer - INFO - Class distribution: {0: 965, 1: 2995, 2: 941}
+2025-11-09 02:54:18,437 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:54:18,438 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:54:18,439 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:54:18,460 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:54:18,463 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:54:24,545 - ModelTrainer - INFO - New best model saved with val_loss: 0.8401
+2025-11-09 02:54:24,546 - ModelTrainer - INFO - Epoch 0/100: Train Loss: 0.9887, Val Loss: 0.8401, Train Acc: 0.5652, Val Acc: 0.7123, LR: 0.001000, Patience: 0/25
+2025-11-09 02:54:40,762 - ModelTrainer - INFO - New best model saved with val_loss: 0.8392
+2025-11-09 02:55:04,796 - ModelTrainer - INFO - Epoch 10/100: Train Loss: 0.9841, Val Loss: 0.8402, Train Acc: 0.5672, Val Acc: 0.7123, LR: 0.001000, Patience: 6/25
+2025-11-09 02:55:12,984 - ModelTrainer - INFO - New best model saved with val_loss: 0.8392
+2025-11-09 02:55:45,084 - ModelTrainer - INFO - Epoch 20/100: Train Loss: 0.9845, Val Loss: 0.8396, Train Acc: 0.5675, Val Acc: 0.7123, LR: 0.000500, Patience: 8/25
+2025-11-09 02:56:25,244 - ModelTrainer - INFO - Epoch 30/100: Train Loss: 0.9834, Val Loss: 0.8400, Train Acc: 0.5681, Val Acc: 0.7123, LR: 0.000250, Patience: 18/25
+2025-11-09 02:56:53,332 - ModelTrainer - INFO - Early stopping triggered at epoch 37
+2025-11-09 02:56:53,598 - ModelTrainer - INFO - Model Evaluation - Accuracy: 0.7210, F1: 0.6041
+2025-11-09 02:56:53,599 - ModelTrainer - INFO - Neural network training completed successfully
+2025-11-09 02:56:53,601 - ModelTraining - INFO - Successfully trained USDJPY.s model
+2025-11-09 02:56:53,601 - ModelTraining - INFO - Model Performance - Accuracy: 0.7210, F1: 0.6041
+2025-11-09 02:56:53,731 - ModelTrainer - INFO - Model saved to models/USDJPY.s_model.pth
+2025-11-09 02:56:55,038 - ModelTrainer - INFO - Training visualization saved to models/USDJPY.s_training_history.png
+2025-11-09 02:56:55,051 - ModelTraining - INFO - Starting model training for EURUSD.s...
+2025-11-09 02:56:55,051 - ModelTraining - INFO - Fetching historical data for EURUSD.s from 2024-11-09 to 2025-11-09
+2025-11-09 02:56:55,056 - ModelTraining - INFO - Generating features...
+2025-11-09 02:56:57,357 - ModelTraining - INFO - Preparing training data...
+2025-11-09 02:56:57,358 - ModelTrainer - INFO - Preparing training data...
+2025-11-09 02:56:57,371 - ModelTrainer - INFO - Class distribution: {0: 660, 1: 3522, 2: 719}
+2025-11-09 02:56:57,372 - ModelTrainer - INFO - Training data prepared: (4901, 796) features, (4901,) targets
+2025-11-09 02:56:57,373 - ModelTraining - INFO - Training data: (4901, 796) features, 4901 samples
+2025-11-09 02:56:57,373 - ModelTraining - INFO - Training neural network...
+2025-11-09 02:56:57,396 - ModelTrainer - INFO - Data loaders created: Train: 106 batches, Val: 29 batches, Test: 14 batches
+2025-11-09 02:56:57,399 - ModelTrainer - INFO - Starting neural network training...
+2025-11-09 02:57:01,762 - ModelTrainer - INFO - New best model saved with val_loss: 0.7562
+2025-11-09 02:57:01,763 - ModelTrainer - INFO - Epoch 0/100: Train Loss: 0.8900, Val Loss: 0.7562, Train Acc: 0.6663, Val Acc: 0.7953, LR: 0.001000, Patience: 0/25
+2025-11-09 02:57:05,954 - ModelTrainer - INFO - New best model saved with val_loss: 0.7562
+2025-11-09 02:57:10,140 - ModelTrainer - INFO - New best model saved with val_loss: 0.7562
+2025-11-09 02:57:14,671 - ModelTrainer - INFO - New best model saved with val_loss: 0.7562
+2025-11-09 02:57:18,865 - ModelTrainer - INFO - New best model saved with val_loss: 0.7562
+2025-11-09 02:57:23,104 - ModelTrainer - INFO - New best model saved with val_loss: 0.7562
+2025-11-09 02:57:27,301 - ModelTrainer - INFO - New best model saved with val_loss: 0.7562
+2025-11-09 02:57:43,550 - ModelTrainer - INFO - New best model saved with val_loss: 0.7562
+2025-11-09 02:57:43,550 - ModelTrainer - INFO - Epoch 10/100: Train Loss: 0.8790, Val Loss: 0.7562, Train Acc: 0.6725, Val Acc: 0.7953, LR: 0.001000, Patience: 0/25
+2025-11-09 02:58:23,720 - ModelTrainer - INFO - Epoch 20/100: Train Loss: 0.8793, Val Loss: 0.7562, Train Acc: 0.6722, Val Acc: 0.7953, LR: 0.000500, Patience: 10/25
+2025-11-09 02:59:03,856 - ModelTrainer - INFO - Epoch 30/100: Train Loss: 0.8787, Val Loss: 0.7562, Train Acc: 0.6728, Val Acc: 0.7953, LR: 0.000250, Patience: 20/25
+2025-11-09 02:59:23,901 - ModelTrainer - INFO - Early stopping triggered at epoch 35
+2025-11-09 02:59:24,167 - ModelTrainer - INFO - Model Evaluation - Accuracy: 0.8973, F1: 0.8488
+2025-11-09 02:59:24,167 - ModelTrainer - INFO - Neural network training completed successfully
+2025-11-09 02:59:24,169 - ModelTraining - INFO - Successfully trained EURUSD.s model
+2025-11-09 02:59:24,169 - ModelTraining - INFO - Model Performance - Accuracy: 0.8973, F1: 0.8488
+2025-11-09 02:59:24,476 - ModelTrainer - INFO - Model saved to models/EURUSD.s_model.pth
+2025-11-09 02:59:25,736 - ModelTrainer - INFO - Training visualization saved to models/EURUSD.s_training_history.png
+2025-11-09 02:59:25,753 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 02:59:25,753 - ModelTraining - INFO - Model training completed!

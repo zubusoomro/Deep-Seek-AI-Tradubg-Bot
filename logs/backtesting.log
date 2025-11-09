@@ -1,0 +1,1872 @@
+2025-11-09 11:01:40,372 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 11:01:45,168 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 11:01:45,368 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 11:01:45,369 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 11:01:45,395 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-08-11 11:01:45.372069 to 2025-11-09 11:01:45.372069
+2025-11-09 11:01:45,407 - Backtester - ERROR - No rates returned for XAUUSD.s
+2025-11-09 11:01:45,407 - Backtester - ERROR - No historical data for XAUUSD.s
+2025-11-09 11:01:45,415 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-08-11 11:01:45.372069 to 2025-11-09 11:01:45.372069
+2025-11-09 11:01:45,416 - Backtester - ERROR - No rates returned for USDJPY.s
+2025-11-09 11:01:45,417 - Backtester - ERROR - No historical data for USDJPY.s
+2025-11-09 11:01:45,427 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-08-11 11:01:45.372069 to 2025-11-09 11:01:45.372069
+2025-11-09 11:01:45,427 - Backtester - ERROR - No rates returned for EURUSD.s
+2025-11-09 11:01:45,428 - Backtester - ERROR - No historical data for EURUSD.s
+2025-11-09 11:05:19,602 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 11:05:23,445 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 11:05:23,613 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 11:05:23,613 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 11:05:23,615 - Backtesting - INFO - Backtesting 3 symbols from 2025-08-11 to 2025-11-09
+2025-11-09 11:05:23,615 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 11:05:23,616 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 11:05:23,617 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-08-11 11:05:23.615885 to 2025-11-09 11:05:23.615885
+2025-11-09 11:05:23,617 - Backtester - ERROR - No rates returned for XAUUSD.s
+2025-11-09 11:05:23,618 - Backtester - ERROR - No historical data for XAUUSD.s
+2025-11-09 11:05:23,619 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 11:05:23,620 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-08-11 11:05:23.615885 to 2025-11-09 11:05:23.615885
+2025-11-09 11:05:23,620 - Backtester - ERROR - No rates returned for USDJPY.s
+2025-11-09 11:05:23,621 - Backtester - ERROR - No historical data for USDJPY.s
+2025-11-09 11:05:23,622 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 11:05:23,622 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-08-11 11:05:23.615885 to 2025-11-09 11:05:23.615885
+2025-11-09 11:05:23,623 - Backtester - ERROR - No rates returned for EURUSD.s
+2025-11-09 11:05:23,624 - Backtester - ERROR - No historical data for EURUSD.s
+2025-11-09 11:05:23,632 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 11:06:28,178 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 11:06:31,830 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 11:06:32,006 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 11:06:32,006 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 11:06:32,007 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-10 to 2025-11-09
+2025-11-09 11:06:32,007 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 11:06:32,007 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 11:06:32,008 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-10 11:06:32.007477 to 2025-11-09 11:06:32.007477
+2025-11-09 11:06:32,008 - Backtester - ERROR - No rates returned for XAUUSD.s
+2025-11-09 11:06:32,008 - Backtester - ERROR - No historical data for XAUUSD.s
+2025-11-09 11:06:32,008 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 11:06:32,009 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-10 11:06:32.007477 to 2025-11-09 11:06:32.007477
+2025-11-09 11:06:32,010 - Backtester - ERROR - No rates returned for USDJPY.s
+2025-11-09 11:06:32,011 - Backtester - ERROR - No historical data for USDJPY.s
+2025-11-09 11:06:32,011 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 11:06:32,012 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-10 11:06:32.007477 to 2025-11-09 11:06:32.007477
+2025-11-09 11:06:32,012 - Backtester - ERROR - No rates returned for EURUSD.s
+2025-11-09 11:06:32,013 - Backtester - ERROR - No historical data for EURUSD.s
+2025-11-09 11:06:32,022 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 11:12:44,266 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 11:12:48,395 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 11:12:48,564 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 11:12:48,565 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 11:12:48,565 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-10 to 2025-11-09
+2025-11-09 11:12:48,566 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 11:12:48,566 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 11:12:48,567 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-10 11:12:48.565695 to 2025-11-09 11:12:48.565695
+2025-11-09 11:12:48,567 - Backtester - ERROR - No rates returned for XAUUSD.s
+2025-11-09 11:12:48,568 - Backtester - ERROR - No historical data for XAUUSD.s
+2025-11-09 11:12:48,568 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 11:12:48,569 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-10 11:12:48.565695 to 2025-11-09 11:12:48.565695
+2025-11-09 11:12:48,570 - Backtester - ERROR - No rates returned for USDJPY.s
+2025-11-09 11:12:48,570 - Backtester - ERROR - No historical data for USDJPY.s
+2025-11-09 11:12:48,571 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 11:12:48,571 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-10 11:12:48.565695 to 2025-11-09 11:12:48.565695
+2025-11-09 11:12:48,572 - Backtester - ERROR - No rates returned for EURUSD.s
+2025-11-09 11:12:48,572 - Backtester - ERROR - No historical data for EURUSD.s
+2025-11-09 11:12:48,578 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 11:24:28,374 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 11:24:32,394 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 11:24:32,570 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 11:24:32,570 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 11:24:32,572 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-10 to 2025-11-09
+2025-11-09 11:24:32,573 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 11:24:32,573 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 11:24:32,575 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-10 11:24:32.572871 to 2025-11-09 11:24:32.572871
+2025-11-09 11:24:32,575 - Backtester - INFO - Fetching 820 bars for XAUUSD.s H1
+2025-11-09 11:24:32,585 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 11:24:32,588 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 11:24:32,605 - Backtester - INFO - Retrieved 472 bars for XAUUSD.s H1
+2025-11-09 11:24:32,615 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 11:24:32,616 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 11:24:32,616 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 11:24:32,617 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-10 11:24:32.572871 to 2025-11-09 11:24:32.572871
+2025-11-09 11:24:32,618 - Backtester - INFO - Fetching 820 bars for USDJPY.s H1
+2025-11-09 11:24:32,627 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 11:24:32,636 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 11:24:32,637 - Backtester - INFO - Retrieved 492 bars for USDJPY.s H1
+2025-11-09 11:24:32,647 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 11:24:32,647 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 11:24:32,648 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 11:24:32,648 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-10 11:24:32.572871 to 2025-11-09 11:24:32.572871
+2025-11-09 11:24:32,649 - Backtester - INFO - Fetching 820 bars for EURUSD.s H1
+2025-11-09 11:24:32,658 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 11:24:32,668 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 11:24:32,669 - Backtester - INFO - Retrieved 492 bars for EURUSD.s H1
+2025-11-09 11:24:32,679 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 11:24:32,679 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 11:24:32,697 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 11:54:07,371 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 11:54:11,129 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 11:54:11,309 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 11:54:11,309 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 11:54:11,311 - Backtesting - INFO - Backtesting 3 symbols from 2025-08-11 to 2025-11-09
+2025-11-09 11:54:11,312 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 11:54:11,312 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 11:54:11,313 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-08-11 11:54:11.311612 to 2025-11-09 11:54:11.311612
+2025-11-09 11:54:11,313 - Backtester - INFO - Fetching 2260 bars for XAUUSD.s H1
+2025-11-09 11:54:11,324 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 11:54:11,328 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 11:54:11,329 - Backtester - INFO - Retrieved 1480 bars for XAUUSD.s H1
+2025-11-09 11:54:11,362 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 11:54:11,362 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 11:54:11,364 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 11:54:11,365 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-08-11 11:54:11.311612 to 2025-11-09 11:54:11.311612
+2025-11-09 11:54:11,366 - Backtester - INFO - Fetching 2260 bars for USDJPY.s H1
+2025-11-09 11:54:11,373 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 11:54:11,376 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 11:54:11,377 - Backtester - INFO - Retrieved 1548 bars for USDJPY.s H1
+2025-11-09 11:54:11,405 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 11:54:11,406 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 11:54:11,406 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 11:54:11,408 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-08-11 11:54:11.311612 to 2025-11-09 11:54:11.311612
+2025-11-09 11:54:11,409 - Backtester - INFO - Fetching 2260 bars for EURUSD.s H1
+2025-11-09 11:54:11,416 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 11:54:11,419 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 11:54:11,420 - Backtester - INFO - Retrieved 1548 bars for EURUSD.s H1
+2025-11-09 11:54:11,449 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 11:54:11,450 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 11:54:11,474 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 12:04:59,355 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 12:05:03,147 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 12:05:03,309 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 12:05:03,309 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 12:05:03,311 - Backtesting - INFO - Backtesting 3 symbols from 2025-08-11 to 2025-11-09
+2025-11-09 12:05:03,311 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 12:05:03,312 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 12:05:03,313 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-08-11 12:05:03.311401 to 2025-11-09 12:05:03.311401
+2025-11-09 12:05:03,314 - Backtester - INFO - Fetching 2260 bars for XAUUSD.s H1
+2025-11-09 12:05:03,323 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:05:03,327 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:05:03,329 - Backtester - INFO - Retrieved 1479 bars for XAUUSD.s H1
+2025-11-09 12:05:03,332 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,333 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,334 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,336 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-18
+2025-11-09 12:05:03,337 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,338 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,339 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,340 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-19
+2025-11-09 12:05:03,341 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,342 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,343 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,347 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-20
+2025-11-09 12:05:03,348 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,349 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,350 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,351 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-21
+2025-11-09 12:05:03,352 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,353 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,353 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,355 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-22
+2025-11-09 12:05:03,355 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,356 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,357 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,358 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-25
+2025-11-09 12:05:03,359 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,364 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,365 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,366 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-26
+2025-11-09 12:05:03,367 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,368 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,368 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,369 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-27
+2025-11-09 12:05:03,370 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,371 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,372 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,372 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-28
+2025-11-09 12:05:03,373 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,374 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,375 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,378 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-08-29
+2025-11-09 12:05:03,379 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,380 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,381 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,382 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-01
+2025-11-09 12:05:03,383 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,384 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,385 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,386 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-02
+2025-11-09 12:05:03,387 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,388 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,389 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,390 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-03
+2025-11-09 12:05:03,392 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,394 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,395 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,396 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-04
+2025-11-09 12:05:03,398 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,398 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,399 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,400 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-05
+2025-11-09 12:05:03,401 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,402 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,403 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,404 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-08
+2025-11-09 12:05:03,405 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,405 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,408 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,410 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-09
+2025-11-09 12:05:03,411 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,412 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,414 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,415 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-10
+2025-11-09 12:05:03,416 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,417 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,418 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,419 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-11
+2025-11-09 12:05:03,421 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,423 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,425 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,426 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-12
+2025-11-09 12:05:03,428 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,429 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,431 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,432 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-15
+2025-11-09 12:05:03,433 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,434 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,435 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,436 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-16
+2025-11-09 12:05:03,439 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,440 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,441 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,442 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-17
+2025-11-09 12:05:03,444 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,445 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,447 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,448 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-18
+2025-11-09 12:05:03,449 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,450 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,453 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,454 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-19
+2025-11-09 12:05:03,456 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,457 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,458 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,459 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-22
+2025-11-09 12:05:03,461 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,462 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,464 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,465 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-23
+2025-11-09 12:05:03,466 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,468 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,471 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,472 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-24
+2025-11-09 12:05:03,474 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,475 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,476 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,477 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-25
+2025-11-09 12:05:03,479 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,480 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,481 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,482 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-26
+2025-11-09 12:05:03,483 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,485 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,487 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,488 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-29
+2025-11-09 12:05:03,489 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,490 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,491 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,492 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-30
+2025-11-09 12:05:03,493 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,494 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,495 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,497 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-01
+2025-11-09 12:05:03,498 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,499 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,502 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,504 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-02
+2025-11-09 12:05:03,505 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,506 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,507 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,508 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-03
+2025-11-09 12:05:03,509 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,510 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,511 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,512 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-06
+2025-11-09 12:05:03,513 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,514 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,517 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,519 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-07
+2025-11-09 12:05:03,520 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,521 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,522 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,523 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-08
+2025-11-09 12:05:03,524 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,525 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,526 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,527 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-09
+2025-11-09 12:05:03,529 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,530 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,532 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,534 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-10
+2025-11-09 12:05:03,535 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,536 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,537 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,538 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-13
+2025-11-09 12:05:03,539 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,540 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,541 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,542 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-14
+2025-11-09 12:05:03,544 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,544 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,547 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,549 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-15
+2025-11-09 12:05:03,551 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,551 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,552 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,553 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-16
+2025-11-09 12:05:03,554 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,555 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,556 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,557 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-17
+2025-11-09 12:05:03,559 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,559 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,560 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,563 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-20
+2025-11-09 12:05:03,564 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,565 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,566 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,567 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-21
+2025-11-09 12:05:03,568 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,569 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,570 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,571 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-22
+2025-11-09 12:05:03,572 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,573 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,574 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,575 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-23
+2025-11-09 12:05:03,576 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,580 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,581 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,582 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-24
+2025-11-09 12:05:03,584 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,584 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,585 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,586 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-27
+2025-11-09 12:05:03,588 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,588 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,589 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,590 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-28
+2025-11-09 12:05:03,592 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,593 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,597 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,598 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-29
+2025-11-09 12:05:03,600 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,601 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,602 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,603 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-30
+2025-11-09 12:05:03,604 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,605 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,606 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,607 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-31
+2025-11-09 12:05:03,608 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,609 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,612 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,614 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-03
+2025-11-09 12:05:03,615 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,616 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,617 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,618 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-04
+2025-11-09 12:05:03,619 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,620 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,621 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,622 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-05
+2025-11-09 12:05:03,623 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,626 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,628 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,629 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-06
+2025-11-09 12:05:03,630 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:05:03,630 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:05:03,631 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:05:03,632 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-07
+2025-11-09 12:05:03,632 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 12:05:03,633 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:05:03,633 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 12:05:03,634 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-08-11 12:05:03.311401 to 2025-11-09 12:05:03.311401
+2025-11-09 12:05:03,634 - Backtester - INFO - Fetching 2260 bars for USDJPY.s H1
+2025-11-09 12:05:03,642 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:05:03,645 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:05:03,646 - Backtester - INFO - Retrieved 1547 bars for USDJPY.s H1
+2025-11-09 12:05:03,649 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,650 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,651 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,652 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-18
+2025-11-09 12:05:03,653 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,654 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,657 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,658 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-19
+2025-11-09 12:05:03,659 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,660 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,661 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,662 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-20
+2025-11-09 12:05:03,664 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,664 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,665 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,666 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-21
+2025-11-09 12:05:03,667 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,668 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,672 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,673 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-22
+2025-11-09 12:05:03,675 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,675 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,677 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,678 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-25
+2025-11-09 12:05:03,680 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,680 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,681 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,683 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-26
+2025-11-09 12:05:03,684 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,685 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,687 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,689 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-27
+2025-11-09 12:05:03,690 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,691 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,692 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,694 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-28
+2025-11-09 12:05:03,695 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,696 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,697 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,699 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-08-29
+2025-11-09 12:05:03,700 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,701 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,704 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,706 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-01
+2025-11-09 12:05:03,707 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,707 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,709 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,710 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-02
+2025-11-09 12:05:03,711 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,712 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,713 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,714 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-03
+2025-11-09 12:05:03,716 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,717 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,719 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,721 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-04
+2025-11-09 12:05:03,723 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,723 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,725 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,725 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-05
+2025-11-09 12:05:03,726 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,727 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,728 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,729 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-08
+2025-11-09 12:05:03,730 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,731 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,732 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,733 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-09
+2025-11-09 12:05:03,736 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,737 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,738 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,739 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-10
+2025-11-09 12:05:03,740 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,741 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,742 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,743 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-11
+2025-11-09 12:05:03,744 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,745 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,746 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,747 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-12
+2025-11-09 12:05:03,749 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,751 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,753 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,754 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-15
+2025-11-09 12:05:03,755 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,756 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,757 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,757 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-16
+2025-11-09 12:05:03,758 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,759 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,760 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,760 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-17
+2025-11-09 12:05:03,761 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,762 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,763 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,763 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-18
+2025-11-09 12:05:03,764 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,767 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,769 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,770 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-19
+2025-11-09 12:05:03,771 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,772 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,773 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,774 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-22
+2025-11-09 12:05:03,775 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,775 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,776 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,777 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-23
+2025-11-09 12:05:03,778 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,778 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,779 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,780 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-24
+2025-11-09 12:05:03,782 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,784 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,786 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,787 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-25
+2025-11-09 12:05:03,788 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,789 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,790 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,791 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-26
+2025-11-09 12:05:03,792 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,793 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,794 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,795 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-29
+2025-11-09 12:05:03,796 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,799 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,801 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,802 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-30
+2025-11-09 12:05:03,803 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,804 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,805 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,806 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-01
+2025-11-09 12:05:03,807 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,808 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,808 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,809 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-02
+2025-11-09 12:05:03,810 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,811 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,812 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,815 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-03
+2025-11-09 12:05:03,816 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,817 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,817 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,818 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-06
+2025-11-09 12:05:03,820 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,820 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,821 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,822 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-07
+2025-11-09 12:05:03,823 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,824 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,826 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,826 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-08
+2025-11-09 12:05:03,826 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,829 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,831 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,832 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-09
+2025-11-09 12:05:03,833 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,834 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,835 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,836 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-10
+2025-11-09 12:05:03,837 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,837 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,838 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,839 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-13
+2025-11-09 12:05:03,840 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,840 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,841 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,842 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-14
+2025-11-09 12:05:03,843 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,844 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,847 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,848 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-15
+2025-11-09 12:05:03,850 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,850 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,851 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,852 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-16
+2025-11-09 12:05:03,853 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,854 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,854 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,855 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-17
+2025-11-09 12:05:03,856 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,857 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,858 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,858 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-20
+2025-11-09 12:05:03,861 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,861 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,863 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,864 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-21
+2025-11-09 12:05:03,865 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,866 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,866 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,867 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-22
+2025-11-09 12:05:03,868 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,869 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,870 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,871 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-23
+2025-11-09 12:05:03,872 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,872 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,873 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,874 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-24
+2025-11-09 12:05:03,877 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,877 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,879 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,880 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-27
+2025-11-09 12:05:03,881 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,882 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,883 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,883 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-28
+2025-11-09 12:05:03,884 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,885 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,886 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,886 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-29
+2025-11-09 12:05:03,887 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,888 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,889 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,889 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-30
+2025-11-09 12:05:03,890 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,893 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,894 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,895 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-31
+2025-11-09 12:05:03,896 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,897 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,898 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,898 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-03
+2025-11-09 12:05:03,899 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,900 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,901 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,902 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-04
+2025-11-09 12:05:03,903 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,903 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,904 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,907 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-05
+2025-11-09 12:05:03,908 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,909 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,910 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,911 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-06
+2025-11-09 12:05:03,912 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:05:03,913 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:05:03,914 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:05:03,915 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-07
+2025-11-09 12:05:03,916 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 12:05:03,916 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:05:03,917 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 12:05:03,917 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-08-11 12:05:03.311401 to 2025-11-09 12:05:03.311401
+2025-11-09 12:05:03,917 - Backtester - INFO - Fetching 2260 bars for EURUSD.s H1
+2025-11-09 12:05:03,925 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:05:03,928 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:05:03,929 - Backtester - INFO - Retrieved 1547 bars for EURUSD.s H1
+2025-11-09 12:05:03,932 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,933 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,935 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,936 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-18
+2025-11-09 12:05:03,937 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,939 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,939 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,941 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-19
+2025-11-09 12:05:03,943 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,944 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,945 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,946 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-20
+2025-11-09 12:05:03,948 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,948 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,949 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,950 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-21
+2025-11-09 12:05:03,951 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,951 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,954 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,955 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-22
+2025-11-09 12:05:03,956 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,957 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,958 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,959 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-25
+2025-11-09 12:05:03,959 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,960 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,961 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,962 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-26
+2025-11-09 12:05:03,963 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,964 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,965 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,966 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-27
+2025-11-09 12:05:03,967 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,969 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,972 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,973 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-28
+2025-11-09 12:05:03,975 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,975 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,977 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,977 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-08-29
+2025-11-09 12:05:03,978 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,979 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,980 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,981 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-01
+2025-11-09 12:05:03,982 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,983 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,987 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,987 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-02
+2025-11-09 12:05:03,989 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,989 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,990 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,991 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-03
+2025-11-09 12:05:03,992 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,992 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,993 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:03,994 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-04
+2025-11-09 12:05:03,995 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:03,997 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:03,998 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,001 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-05
+2025-11-09 12:05:04,002 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,003 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,004 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,005 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-08
+2025-11-09 12:05:04,006 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,007 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,007 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,009 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-09
+2025-11-09 12:05:04,010 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,010 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,011 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,012 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-10
+2025-11-09 12:05:04,013 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,014 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,017 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,018 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-11
+2025-11-09 12:05:04,019 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,019 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,020 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,021 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-12
+2025-11-09 12:05:04,022 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,023 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,023 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,024 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-15
+2025-11-09 12:05:04,025 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,026 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,026 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,027 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-16
+2025-11-09 12:05:04,028 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,028 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,029 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,033 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-17
+2025-11-09 12:05:04,034 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,035 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,036 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,037 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-18
+2025-11-09 12:05:04,038 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,038 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,039 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,040 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-19
+2025-11-09 12:05:04,041 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,041 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,042 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,043 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-22
+2025-11-09 12:05:04,044 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,045 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,045 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,049 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-23
+2025-11-09 12:05:04,051 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,051 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,052 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,053 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-24
+2025-11-09 12:05:04,054 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,055 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,056 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,057 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-25
+2025-11-09 12:05:04,058 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,058 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,059 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,060 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-26
+2025-11-09 12:05:04,060 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,061 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,062 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,066 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-29
+2025-11-09 12:05:04,067 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,068 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,069 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,070 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-30
+2025-11-09 12:05:04,072 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,072 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,073 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,074 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-01
+2025-11-09 12:05:04,075 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,075 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,076 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,077 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-02
+2025-11-09 12:05:04,079 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,081 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,083 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,084 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-03
+2025-11-09 12:05:04,085 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,086 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,087 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,087 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-06
+2025-11-09 12:05:04,088 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,089 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,089 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,090 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-07
+2025-11-09 12:05:04,091 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,092 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,094 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,097 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-08
+2025-11-09 12:05:04,099 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,099 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,101 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,103 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-09
+2025-11-09 12:05:04,104 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,105 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,107 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,108 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-10
+2025-11-09 12:05:04,111 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,112 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,113 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,113 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-13
+2025-11-09 12:05:04,114 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,116 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,117 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,118 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-14
+2025-11-09 12:05:04,119 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,120 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,121 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,122 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-15
+2025-11-09 12:05:04,123 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,124 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,126 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,127 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-16
+2025-11-09 12:05:04,129 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,130 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,131 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,132 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-17
+2025-11-09 12:05:04,133 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,135 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,135 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,135 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-20
+2025-11-09 12:05:04,136 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,137 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,138 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,139 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-21
+2025-11-09 12:05:04,142 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,144 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,145 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,146 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-22
+2025-11-09 12:05:04,147 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,148 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,149 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,150 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-23
+2025-11-09 12:05:04,151 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,152 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,153 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,154 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-24
+2025-11-09 12:05:04,155 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,157 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,159 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,160 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-27
+2025-11-09 12:05:04,161 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,162 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,163 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,164 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-28
+2025-11-09 12:05:04,165 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,166 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,167 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,167 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-29
+2025-11-09 12:05:04,168 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,169 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,170 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,170 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-30
+2025-11-09 12:05:04,173 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,174 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,175 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,176 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-31
+2025-11-09 12:05:04,177 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,178 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,179 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,180 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-03
+2025-11-09 12:05:04,181 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,182 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,183 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,184 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-04
+2025-11-09 12:05:04,185 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,185 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,188 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,190 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-05
+2025-11-09 12:05:04,191 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,192 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,193 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,194 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-06
+2025-11-09 12:05:04,195 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:05:04,195 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:05:04,197 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:05:04,198 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-07
+2025-11-09 12:05:04,199 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 12:05:04,199 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:05:04,223 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 12:07:40,338 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 12:07:44,006 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 12:07:44,192 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 12:07:44,192 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 12:07:44,194 - Backtesting - INFO - Backtesting 3 symbols from 2025-09-10 to 2025-11-09
+2025-11-09 12:07:44,194 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 12:07:44,195 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 12:07:44,195 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-09-10 12:07:44.194615 to 2025-11-09 12:07:44.194615
+2025-11-09 12:07:44,196 - Backtester - INFO - Fetching 1540 bars for XAUUSD.s H1
+2025-11-09 12:07:44,206 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:07:44,211 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:07:44,212 - Backtester - INFO - Retrieved 977 bars for XAUUSD.s H1
+2025-11-09 12:07:44,217 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,217 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,219 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,222 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-17
+2025-11-09 12:07:44,223 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,224 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,225 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,226 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-18
+2025-11-09 12:07:44,227 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,228 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,229 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,230 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-19
+2025-11-09 12:07:44,231 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,232 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,233 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,234 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-22
+2025-11-09 12:07:44,235 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,237 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,240 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,240 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-23
+2025-11-09 12:07:44,242 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,243 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,244 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,245 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-24
+2025-11-09 12:07:44,246 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,247 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,248 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,249 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-25
+2025-11-09 12:07:44,250 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,250 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,253 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,255 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-26
+2025-11-09 12:07:44,257 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,257 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,258 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,259 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-29
+2025-11-09 12:07:44,260 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,261 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,263 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,264 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-09-30
+2025-11-09 12:07:44,265 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,265 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,268 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,269 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-01
+2025-11-09 12:07:44,270 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,271 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,273 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,274 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-02
+2025-11-09 12:07:44,274 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,275 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,276 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,277 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-03
+2025-11-09 12:07:44,277 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,278 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,279 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,279 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-06
+2025-11-09 12:07:44,280 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,281 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,282 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,285 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-07
+2025-11-09 12:07:44,285 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,286 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,287 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,289 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-08
+2025-11-09 12:07:44,290 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,291 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,291 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,292 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-09
+2025-11-09 12:07:44,293 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,294 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,295 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,295 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-10
+2025-11-09 12:07:44,296 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,299 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,301 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,302 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-13
+2025-11-09 12:07:44,303 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,304 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,305 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,306 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-14
+2025-11-09 12:07:44,307 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,308 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,309 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,310 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-15
+2025-11-09 12:07:44,311 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,312 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,313 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,316 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-16
+2025-11-09 12:07:44,317 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,318 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,319 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,320 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-17
+2025-11-09 12:07:44,321 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,322 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,323 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,324 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-20
+2025-11-09 12:07:44,324 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,325 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,326 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,327 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-21
+2025-11-09 12:07:44,328 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,330 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,332 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,333 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-22
+2025-11-09 12:07:44,335 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,335 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,336 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,337 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-23
+2025-11-09 12:07:44,338 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,339 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,340 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,341 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-24
+2025-11-09 12:07:44,342 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,343 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,344 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,347 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-27
+2025-11-09 12:07:44,348 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,349 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,350 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,351 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-28
+2025-11-09 12:07:44,352 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,353 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,354 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,355 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-29
+2025-11-09 12:07:44,356 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,357 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,358 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,358 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-30
+2025-11-09 12:07:44,359 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,362 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,363 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,364 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-10-31
+2025-11-09 12:07:44,365 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,366 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,367 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,367 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-03
+2025-11-09 12:07:44,368 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,369 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,370 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,371 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-04
+2025-11-09 12:07:44,372 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,373 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,374 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,374 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-05
+2025-11-09 12:07:44,378 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,379 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,380 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,380 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-06
+2025-11-09 12:07:44,381 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:44,382 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:44,383 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:44,384 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-07
+2025-11-09 12:07:44,384 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 12:07:44,385 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:07:44,385 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 12:07:44,385 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-09-10 12:07:44.194615 to 2025-11-09 12:07:44.194615
+2025-11-09 12:07:44,386 - Backtester - INFO - Fetching 1540 bars for USDJPY.s H1
+2025-11-09 12:07:44,393 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:07:44,395 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:07:44,396 - Backtester - INFO - Retrieved 1019 bars for USDJPY.s H1
+2025-11-09 12:07:44,399 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,400 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,401 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,402 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-17
+2025-11-09 12:07:44,404 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,404 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,406 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,409 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-18
+2025-11-09 12:07:44,409 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,410 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,412 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,413 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-19
+2025-11-09 12:07:44,414 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,415 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,416 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,417 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-22
+2025-11-09 12:07:44,418 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,418 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,419 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,419 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-23
+2025-11-09 12:07:44,420 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,421 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,424 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,426 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-24
+2025-11-09 12:07:44,427 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,428 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,429 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,430 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-25
+2025-11-09 12:07:44,431 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,432 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,433 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,434 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-26
+2025-11-09 12:07:44,436 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,436 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,439 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,441 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-29
+2025-11-09 12:07:44,443 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,443 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,444 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,445 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-09-30
+2025-11-09 12:07:44,446 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,447 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,448 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,449 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-01
+2025-11-09 12:07:44,450 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,451 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,451 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,452 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-02
+2025-11-09 12:07:44,453 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,457 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,457 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,458 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-03
+2025-11-09 12:07:44,459 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,460 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,461 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,462 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-06
+2025-11-09 12:07:44,463 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,463 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,464 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,465 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-07
+2025-11-09 12:07:44,466 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,466 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,467 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,468 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-08
+2025-11-09 12:07:44,469 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,472 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,474 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,475 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-09
+2025-11-09 12:07:44,476 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,477 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,477 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,478 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-10
+2025-11-09 12:07:44,479 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,480 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,481 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,482 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-13
+2025-11-09 12:07:44,483 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,483 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,484 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,485 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-14
+2025-11-09 12:07:44,488 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,490 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,491 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,492 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-15
+2025-11-09 12:07:44,494 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,494 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,496 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,497 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-16
+2025-11-09 12:07:44,498 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,499 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,500 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,502 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-17
+2025-11-09 12:07:44,503 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,505 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,506 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,507 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-20
+2025-11-09 12:07:44,508 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,509 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,510 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,511 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-21
+2025-11-09 12:07:44,512 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,512 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,513 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,514 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-22
+2025-11-09 12:07:44,515 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,515 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,518 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,520 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-23
+2025-11-09 12:07:44,522 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,522 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,523 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,524 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-24
+2025-11-09 12:07:44,525 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,526 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,527 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,528 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-27
+2025-11-09 12:07:44,529 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,530 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,530 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,531 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-28
+2025-11-09 12:07:44,533 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,534 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,536 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,537 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-29
+2025-11-09 12:07:44,539 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,540 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,541 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,542 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-30
+2025-11-09 12:07:44,543 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,543 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,544 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,545 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-10-31
+2025-11-09 12:07:44,546 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,547 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,548 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,551 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-03
+2025-11-09 12:07:44,552 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,553 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,554 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,556 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-04
+2025-11-09 12:07:44,559 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,559 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,560 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,561 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-05
+2025-11-09 12:07:44,562 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,562 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,563 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,564 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-06
+2025-11-09 12:07:44,566 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:44,567 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:44,568 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:44,569 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-07
+2025-11-09 12:07:44,569 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 12:07:44,570 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:07:44,570 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 12:07:44,571 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-09-10 12:07:44.194615 to 2025-11-09 12:07:44.194615
+2025-11-09 12:07:44,571 - Backtester - INFO - Fetching 1540 bars for EURUSD.s H1
+2025-11-09 12:07:44,579 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:07:44,582 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:07:44,583 - Backtester - INFO - Retrieved 1019 bars for EURUSD.s H1
+2025-11-09 12:07:44,586 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,587 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,588 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,591 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-17
+2025-11-09 12:07:44,593 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,594 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,595 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,598 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-18
+2025-11-09 12:07:44,599 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,600 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,601 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,602 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-19
+2025-11-09 12:07:44,603 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,603 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,605 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,606 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-22
+2025-11-09 12:07:44,607 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,608 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,609 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,609 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-23
+2025-11-09 12:07:44,610 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,613 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,614 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,615 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-24
+2025-11-09 12:07:44,616 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,617 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,618 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,619 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-25
+2025-11-09 12:07:44,620 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,620 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,621 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,622 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-26
+2025-11-09 12:07:44,623 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,623 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,624 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,625 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-29
+2025-11-09 12:07:44,627 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,630 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,631 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,632 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-09-30
+2025-11-09 12:07:44,633 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,634 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,635 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,636 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-01
+2025-11-09 12:07:44,637 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,638 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,640 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,641 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-02
+2025-11-09 12:07:44,643 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,646 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,647 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,648 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-03
+2025-11-09 12:07:44,649 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,650 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,650 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,651 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-06
+2025-11-09 12:07:44,652 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,652 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,653 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,654 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-07
+2025-11-09 12:07:44,654 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,655 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,656 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,657 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-08
+2025-11-09 12:07:44,661 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,661 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,663 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,664 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-09
+2025-11-09 12:07:44,665 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,665 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,666 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,668 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-10
+2025-11-09 12:07:44,669 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,669 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,670 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,672 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-13
+2025-11-09 12:07:44,673 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,675 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,677 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,679 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-14
+2025-11-09 12:07:44,680 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,681 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,682 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,683 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-15
+2025-11-09 12:07:44,684 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,684 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,685 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,686 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-16
+2025-11-09 12:07:44,687 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,688 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,691 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,692 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-17
+2025-11-09 12:07:44,694 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,694 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,695 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,696 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-20
+2025-11-09 12:07:44,697 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,697 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,698 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,699 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-21
+2025-11-09 12:07:44,700 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,701 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,702 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,703 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-22
+2025-11-09 12:07:44,704 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,706 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,708 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,709 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-23
+2025-11-09 12:07:44,710 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,710 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,711 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,712 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-24
+2025-11-09 12:07:44,713 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,714 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,714 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,715 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-27
+2025-11-09 12:07:44,716 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,717 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,718 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,718 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-28
+2025-11-09 12:07:44,719 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,722 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,724 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,725 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-29
+2025-11-09 12:07:44,726 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,726 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,727 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,728 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-30
+2025-11-09 12:07:44,729 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,729 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,730 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,731 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-10-31
+2025-11-09 12:07:44,732 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,733 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,734 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,734 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-03
+2025-11-09 12:07:44,735 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,740 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,743 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,744 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-04
+2025-11-09 12:07:44,745 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,746 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,747 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,749 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-05
+2025-11-09 12:07:44,750 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,751 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,753 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,755 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-06
+2025-11-09 12:07:44,757 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:44,757 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:44,758 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:44,759 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-07
+2025-11-09 12:07:44,760 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 12:07:44,760 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:07:44,774 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 12:07:50,467 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 12:07:54,024 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 12:07:54,201 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 12:07:54,202 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 12:07:54,204 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-30 to 2025-11-09
+2025-11-09 12:07:54,204 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 12:07:54,205 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 12:07:54,205 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-30 12:07:54.204170 to 2025-11-09 12:07:54.204170
+2025-11-09 12:07:54,206 - Backtester - INFO - Fetching 340 bars for XAUUSD.s H1
+2025-11-09 12:07:54,216 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:07:54,221 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:07:54,222 - Backtester - INFO - Retrieved 149 bars for XAUUSD.s H1
+2025-11-09 12:07:54,225 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:54,226 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:54,227 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:54,228 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-06
+2025-11-09 12:07:54,229 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:07:54,230 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:07:54,231 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:07:54,232 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-07
+2025-11-09 12:07:54,232 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 12:07:54,233 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:07:54,234 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 12:07:54,236 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-30 12:07:54.204170 to 2025-11-09 12:07:54.204170
+2025-11-09 12:07:54,237 - Backtester - INFO - Fetching 340 bars for USDJPY.s H1
+2025-11-09 12:07:54,246 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:07:54,249 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:07:54,250 - Backtester - INFO - Retrieved 155 bars for USDJPY.s H1
+2025-11-09 12:07:54,254 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:54,254 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:54,256 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:54,257 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-06
+2025-11-09 12:07:54,258 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:07:54,259 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:07:54,260 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:07:54,260 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-07
+2025-11-09 12:07:54,261 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 12:07:54,261 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:07:54,261 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 12:07:54,261 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-30 12:07:54.204170 to 2025-11-09 12:07:54.204170
+2025-11-09 12:07:54,262 - Backtester - INFO - Fetching 340 bars for EURUSD.s H1
+2025-11-09 12:07:54,269 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:07:54,272 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:07:54,273 - Backtester - INFO - Retrieved 155 bars for EURUSD.s H1
+2025-11-09 12:07:54,275 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:54,276 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:54,276 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:54,277 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-06
+2025-11-09 12:07:54,277 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:07:54,278 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:07:54,278 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:07:54,278 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-07
+2025-11-09 12:07:54,279 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 12:07:54,279 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:07:54,282 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 12:15:54,207 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 12:15:57,850 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 12:15:58,016 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 12:15:58,017 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 12:15:58,017 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-30 to 2025-11-09
+2025-11-09 12:15:58,018 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 12:15:58,018 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 12:15:58,018 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-30 12:15:58.017040 to 2025-11-09 12:15:58.017040
+2025-11-09 12:15:58,018 - Backtester - INFO - Fetching 340 bars for XAUUSD.s H1
+2025-11-09 12:15:58,028 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:15:58,031 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:15:58,032 - Backtester - INFO - Retrieved 149 bars for XAUUSD.s H1
+2025-11-09 12:15:58,043 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:15:58,351 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:15:58,352 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:15:58,352 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:15:58,353 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:15:58,353 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:15:58,354 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-06
+2025-11-09 12:15:58,362 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:15:58,370 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:15:58,370 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:15:58,370 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:15:58,371 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:15:58,371 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:15:58,371 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-07
+2025-11-09 12:15:58,372 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 12:15:58,372 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:15:58,372 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 12:15:58,372 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-30 12:15:58.017040 to 2025-11-09 12:15:58.017040
+2025-11-09 12:15:58,373 - Backtester - INFO - Fetching 340 bars for USDJPY.s H1
+2025-11-09 12:15:58,380 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:15:58,385 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:15:58,386 - Backtester - INFO - Retrieved 155 bars for USDJPY.s H1
+2025-11-09 12:15:58,395 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:15:58,461 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:15:58,462 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:15:58,462 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:15:58,463 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:15:58,463 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:15:58,463 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-06
+2025-11-09 12:15:58,471 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:15:58,480 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:15:58,480 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:15:58,480 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:15:58,481 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:15:58,481 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:15:58,481 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-07
+2025-11-09 12:15:58,482 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 12:15:58,482 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:15:58,482 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 12:15:58,482 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-30 12:15:58.017040 to 2025-11-09 12:15:58.017040
+2025-11-09 12:15:58,482 - Backtester - INFO - Fetching 340 bars for EURUSD.s H1
+2025-11-09 12:15:58,489 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:15:58,492 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:15:58,494 - Backtester - INFO - Retrieved 155 bars for EURUSD.s H1
+2025-11-09 12:15:58,504 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:15:58,573 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:15:58,573 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:15:58,574 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:15:58,574 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:15:58,575 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:15:58,575 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-06
+2025-11-09 12:15:58,583 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:15:58,591 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:15:58,591 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:15:58,592 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:15:58,592 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:15:58,592 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:15:58,593 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-07
+2025-11-09 12:15:58,593 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 12:15:58,593 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:15:58,595 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 12:19:12,835 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 12:19:16,742 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 12:19:16,920 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 12:19:16,920 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 12:19:16,921 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-30 to 2025-11-09
+2025-11-09 12:19:16,921 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 12:19:16,921 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 12:19:16,921 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-30 12:19:16.921614 to 2025-11-09 12:19:16.921614
+2025-11-09 12:19:16,921 - Backtester - INFO - Fetching 340 bars for XAUUSD.s H1
+2025-11-09 12:19:16,931 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:19:16,946 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:19:16,947 - Backtester - INFO - Retrieved 149 bars for XAUUSD.s H1
+2025-11-09 12:19:16,957 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:19:16,965 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:19:16,965 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:19:16,965 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:19:16,966 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:19:16,966 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:19:16,967 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-06
+2025-11-09 12:19:16,974 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:19:16,982 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:19:16,983 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:19:16,984 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:19:16,984 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:19:16,984 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:19:16,984 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-07
+2025-11-09 12:19:16,985 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 12:19:16,985 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:19:16,985 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 12:19:16,985 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-30 12:19:16.921614 to 2025-11-09 12:19:16.921614
+2025-11-09 12:19:16,986 - Backtester - INFO - Fetching 340 bars for USDJPY.s H1
+2025-11-09 12:19:16,993 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:19:16,995 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:19:16,995 - Backtester - INFO - Retrieved 155 bars for USDJPY.s H1
+2025-11-09 12:19:17,005 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:19:17,013 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:19:17,013 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:19:17,013 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:19:17,014 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:19:17,015 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:19:17,015 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-06
+2025-11-09 12:19:17,022 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:19:17,029 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:19:17,030 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:19:17,030 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:19:17,031 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:19:17,031 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:19:17,032 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-07
+2025-11-09 12:19:17,032 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 12:19:17,032 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:19:17,032 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 12:19:17,033 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-30 12:19:16.921614 to 2025-11-09 12:19:16.921614
+2025-11-09 12:19:17,033 - Backtester - INFO - Fetching 340 bars for EURUSD.s H1
+2025-11-09 12:19:17,040 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:19:17,041 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:19:17,042 - Backtester - INFO - Retrieved 155 bars for EURUSD.s H1
+2025-11-09 12:19:17,052 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:19:17,058 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:19:17,059 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:19:17,059 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:19:17,060 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:19:17,060 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:19:17,061 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-06
+2025-11-09 12:19:17,067 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:19:17,073 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:19:17,074 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:19:17,075 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:19:17,076 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:19:17,076 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:19:17,076 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-07
+2025-11-09 12:19:17,076 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 12:19:17,077 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:19:17,079 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 12:24:40,026 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 12:24:43,931 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 12:24:44,102 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 12:24:44,102 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 12:24:44,103 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-30 to 2025-11-09
+2025-11-09 12:24:44,103 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 12:24:44,103 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 12:24:44,104 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-30 12:24:44.103178 to 2025-11-09 12:24:44.103178
+2025-11-09 12:24:44,104 - Backtester - INFO - Fetching 360 bars for XAUUSD.s H1
+2025-11-09 12:24:44,114 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:24:44,117 - Backtester - INFO - Successfully retrieved 149 bars for XAUUSD.s H1
+2025-11-09 12:24:44,126 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:24:44,134 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:24:44,135 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:24:44,135 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:24:44,135 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:24:44,136 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:24:44,136 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-06
+2025-11-09 12:24:44,143 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:24:44,151 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:24:44,151 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:24:44,152 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:24:44,152 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:24:44,153 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:24:44,153 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-07
+2025-11-09 12:24:44,154 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 12:24:44,154 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:24:44,154 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 12:24:44,154 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-30 12:24:44.103178 to 2025-11-09 12:24:44.103178
+2025-11-09 12:24:44,155 - Backtester - INFO - Fetching 360 bars for USDJPY.s H1
+2025-11-09 12:24:44,161 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:24:44,163 - Backtester - INFO - Successfully retrieved 155 bars for USDJPY.s H1
+2025-11-09 12:24:44,172 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:24:44,179 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:24:44,180 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:24:44,180 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:24:44,180 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:24:44,181 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:24:44,181 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-06
+2025-11-09 12:24:44,189 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:24:44,195 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:24:44,195 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:24:44,195 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:24:44,196 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:24:44,196 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:24:44,196 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-07
+2025-11-09 12:24:44,197 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 12:24:44,197 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:24:44,197 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 12:24:44,197 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-30 12:24:44.103178 to 2025-11-09 12:24:44.103178
+2025-11-09 12:24:44,197 - Backtester - INFO - Fetching 360 bars for EURUSD.s H1
+2025-11-09 12:24:44,204 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:24:44,205 - Backtester - INFO - Successfully retrieved 155 bars for EURUSD.s H1
+2025-11-09 12:24:44,214 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:24:44,220 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:24:44,220 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:24:44,221 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:24:44,221 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:24:44,221 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:24:44,221 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-06
+2025-11-09 12:24:44,228 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:24:44,235 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:24:44,235 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:24:44,235 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:24:44,236 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:24:44,236 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:24:44,236 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-07
+2025-11-09 12:24:44,236 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 12:24:44,237 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:24:44,238 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 12:27:22,258 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 12:27:26,011 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 12:27:26,180 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 12:27:26,180 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 12:27:26,181 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-30 to 2025-11-09
+2025-11-09 12:27:26,182 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 12:27:26,182 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 12:27:26,182 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-30 12:27:26.181609 to 2025-11-09 12:27:26.181609
+2025-11-09 12:27:26,183 - Backtester - INFO - Fetching 360 bars for XAUUSD.s H1
+2025-11-09 12:27:26,192 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:27:26,195 - Backtester - INFO - Successfully retrieved 149 bars for XAUUSD.s H1
+2025-11-09 12:27:26,202 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:27:26,211 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:27:26,211 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:27:26,212 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:27:26,212 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:27:26,212 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:27:26,213 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-06
+2025-11-09 12:27:26,220 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:27:26,227 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:27:26,228 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:27:26,228 - TradingBot - WARNING - No data returned for XAUUSD.s M15
+2025-11-09 12:27:26,229 - TradingBot - WARNING - No data returned for XAUUSD.s H1
+2025-11-09 12:27:26,229 - TradingBot - WARNING - No data returned for XAUUSD.s H4
+2025-11-09 12:27:26,229 - Backtester - INFO - Generated 0 signals for XAUUSD.s on 2025-11-07
+2025-11-09 12:27:26,230 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 12:27:26,230 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:27:26,230 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 12:27:26,230 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-30 12:27:26.181609 to 2025-11-09 12:27:26.181609
+2025-11-09 12:27:26,230 - Backtester - INFO - Fetching 360 bars for USDJPY.s H1
+2025-11-09 12:27:26,237 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:27:26,240 - Backtester - INFO - Successfully retrieved 155 bars for USDJPY.s H1
+2025-11-09 12:27:26,249 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:27:26,256 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:27:26,257 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:27:26,257 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:27:26,257 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:27:26,258 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:27:26,258 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-06
+2025-11-09 12:27:26,265 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:27:26,273 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:27:26,273 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:27:26,273 - TradingBot - WARNING - No data returned for USDJPY.s M15
+2025-11-09 12:27:26,274 - TradingBot - WARNING - No data returned for USDJPY.s H1
+2025-11-09 12:27:26,274 - TradingBot - WARNING - No data returned for USDJPY.s H4
+2025-11-09 12:27:26,274 - Backtester - INFO - Generated 0 signals for USDJPY.s on 2025-11-07
+2025-11-09 12:27:26,275 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 12:27:26,275 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:27:26,275 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 12:27:26,275 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-30 12:27:26.181609 to 2025-11-09 12:27:26.181609
+2025-11-09 12:27:26,275 - Backtester - INFO - Fetching 360 bars for EURUSD.s H1
+2025-11-09 12:27:26,282 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:27:26,284 - Backtester - INFO - Successfully retrieved 155 bars for EURUSD.s H1
+2025-11-09 12:27:26,292 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:27:26,299 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:27:26,299 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:27:26,299 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:27:26,301 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:27:26,301 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:27:26,301 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-06
+2025-11-09 12:27:26,308 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:27:26,315 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:27:26,316 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:27:26,316 - TradingBot - WARNING - No data returned for EURUSD.s M15
+2025-11-09 12:27:26,316 - TradingBot - WARNING - No data returned for EURUSD.s H1
+2025-11-09 12:27:26,316 - TradingBot - WARNING - No data returned for EURUSD.s H4
+2025-11-09 12:27:26,317 - Backtester - INFO - Generated 0 signals for EURUSD.s on 2025-11-07
+2025-11-09 12:27:26,317 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 12:27:26,317 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:27:26,320 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 12:33:11,617 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 12:33:15,315 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 12:33:15,495 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 12:33:15,496 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 12:33:15,497 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-30 to 2025-11-09
+2025-11-09 12:33:15,497 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 12:33:15,497 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 12:33:15,497 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-30 12:33:15.497659 to 2025-11-09 12:33:15.497659
+2025-11-09 12:33:15,498 - Backtester - INFO - Fetching 360 bars for XAUUSD.s H1
+2025-11-09 12:33:15,507 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:33:15,511 - Backtester - INFO - Successfully retrieved 149 bars for XAUUSD.s H1
+2025-11-09 12:33:15,520 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:33:15,530 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:33:15,530 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:33:15,530 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:33:15,678 - MLEngine - ERROR - Error in prediction for XAUUSD.s: Feature names are only supported if all input features have string names, but your input has ['int', 'str'] as feature name / column name types. If you want feature names to be stored and validated, you must convert them all to strings, by using X.columns = X.columns.astype(str) for example. Otherwise you can remove feature / column names from your input data, or convert them all to a non-string data type.
+2025-11-09 12:33:15,679 - TradingBot - INFO - ML Confidence for XAUUSD.s: 0.000
+2025-11-09 12:33:15,902 - TradingBot - ERROR - Error generating signals for XAUUSD.s: attempted relative import beyond top-level package
+2025-11-09 12:33:15,904 - Backtester - INFO - No valid signals for XAUUSD.s on 2025-11-06
+2025-11-09 12:33:15,911 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:33:15,918 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:33:15,918 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:33:15,919 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:33:16,096 - MLEngine - ERROR - Error in prediction for XAUUSD.s: Feature names are only supported if all input features have string names, but your input has ['int', 'str'] as feature name / column name types. If you want feature names to be stored and validated, you must convert them all to strings, by using X.columns = X.columns.astype(str) for example. Otherwise you can remove feature / column names from your input data, or convert them all to a non-string data type.
+2025-11-09 12:33:16,097 - TradingBot - INFO - ML Confidence for XAUUSD.s: 0.000
+2025-11-09 12:33:16,099 - TradingBot - ERROR - Error generating signals for XAUUSD.s: attempted relative import beyond top-level package
+2025-11-09 12:33:16,099 - Backtester - INFO - No valid signals for XAUUSD.s on 2025-11-07
+2025-11-09 12:33:16,099 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 12:33:16,100 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:33:16,100 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 12:33:16,100 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-30 12:33:15.497659 to 2025-11-09 12:33:15.497659
+2025-11-09 12:33:16,101 - Backtester - INFO - Fetching 360 bars for USDJPY.s H1
+2025-11-09 12:33:16,107 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:33:16,109 - Backtester - INFO - Successfully retrieved 155 bars for USDJPY.s H1
+2025-11-09 12:33:16,118 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:33:16,125 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:33:16,125 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:33:16,125 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:33:16,279 - MLEngine - ERROR - Error in prediction for USDJPY.s: Feature names are only supported if all input features have string names, but your input has ['int', 'str'] as feature name / column name types. If you want feature names to be stored and validated, you must convert them all to strings, by using X.columns = X.columns.astype(str) for example. Otherwise you can remove feature / column names from your input data, or convert them all to a non-string data type.
+2025-11-09 12:33:16,279 - TradingBot - INFO - ML Confidence for USDJPY.s: 0.000
+2025-11-09 12:33:16,281 - TradingBot - ERROR - Error generating signals for USDJPY.s: attempted relative import beyond top-level package
+2025-11-09 12:33:16,281 - Backtester - INFO - No valid signals for USDJPY.s on 2025-11-06
+2025-11-09 12:33:16,288 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:33:16,295 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:33:16,297 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:33:16,297 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:33:16,476 - MLEngine - ERROR - Error in prediction for USDJPY.s: Feature names are only supported if all input features have string names, but your input has ['int', 'str'] as feature name / column name types. If you want feature names to be stored and validated, you must convert them all to strings, by using X.columns = X.columns.astype(str) for example. Otherwise you can remove feature / column names from your input data, or convert them all to a non-string data type.
+2025-11-09 12:33:16,476 - TradingBot - INFO - ML Confidence for USDJPY.s: 0.000
+2025-11-09 12:33:16,478 - TradingBot - ERROR - Error generating signals for USDJPY.s: attempted relative import beyond top-level package
+2025-11-09 12:33:16,479 - Backtester - INFO - No valid signals for USDJPY.s on 2025-11-07
+2025-11-09 12:33:16,479 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 12:33:16,479 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:33:16,479 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 12:33:16,479 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-30 12:33:15.497659 to 2025-11-09 12:33:15.497659
+2025-11-09 12:33:16,480 - Backtester - INFO - Fetching 360 bars for EURUSD.s H1
+2025-11-09 12:33:16,486 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:33:16,488 - Backtester - INFO - Successfully retrieved 155 bars for EURUSD.s H1
+2025-11-09 12:33:16,497 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:33:16,505 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:33:16,505 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:33:16,505 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:33:16,642 - MLEngine - ERROR - Error in prediction for EURUSD.s: Feature names are only supported if all input features have string names, but your input has ['int', 'str'] as feature name / column name types. If you want feature names to be stored and validated, you must convert them all to strings, by using X.columns = X.columns.astype(str) for example. Otherwise you can remove feature / column names from your input data, or convert them all to a non-string data type.
+2025-11-09 12:33:16,642 - TradingBot - INFO - ML Confidence for EURUSD.s: 0.000
+2025-11-09 12:33:16,644 - TradingBot - ERROR - Error generating signals for EURUSD.s: attempted relative import beyond top-level package
+2025-11-09 12:33:16,645 - Backtester - INFO - No valid signals for EURUSD.s on 2025-11-06
+2025-11-09 12:33:16,652 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:33:16,660 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:33:16,661 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:33:16,661 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:33:16,868 - MLEngine - ERROR - Error in prediction for EURUSD.s: Feature names are only supported if all input features have string names, but your input has ['int', 'str'] as feature name / column name types. If you want feature names to be stored and validated, you must convert them all to strings, by using X.columns = X.columns.astype(str) for example. Otherwise you can remove feature / column names from your input data, or convert them all to a non-string data type.
+2025-11-09 12:33:16,868 - TradingBot - INFO - ML Confidence for EURUSD.s: 0.000
+2025-11-09 12:33:16,870 - TradingBot - ERROR - Error generating signals for EURUSD.s: attempted relative import beyond top-level package
+2025-11-09 12:33:16,870 - Backtester - INFO - No valid signals for EURUSD.s on 2025-11-07
+2025-11-09 12:33:16,871 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 12:33:16,871 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:33:16,873 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
+2025-11-09 12:37:09,361 - ConfigManager - INFO - All configurations loaded successfully
+2025-11-09 12:37:13,137 - ModelTrainer - INFO - ModelTrainer initialized with device: cuda
+2025-11-09 12:37:13,300 - MLEngine - INFO - ML Engine initialized with device: cpu
+2025-11-09 12:37:13,300 - MLEngine - INFO - Model trainer initialized: AdvancedModelTrainer
+2025-11-09 12:37:13,301 - Backtesting - INFO - Backtesting 3 symbols from 2025-10-30 to 2025-11-09
+2025-11-09 12:37:13,301 - Backtesting - INFO - Initial balance: $10,000.00
+2025-11-09 12:37:13,301 - Backtesting - INFO - Backtesting XAUUSD.s...
+2025-11-09 12:37:13,302 - Backtester - INFO - Starting backtest for XAUUSD.s from 2025-10-30 12:37:13.301323 to 2025-11-09 12:37:13.301323
+2025-11-09 12:37:13,302 - Backtester - INFO - Fetching 360 bars for XAUUSD.s H1
+2025-11-09 12:37:13,313 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:37:13,315 - Backtester - INFO - Successfully retrieved 149 bars for XAUUSD.s H1
+2025-11-09 12:37:13,324 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:37:13,332 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:37:13,332 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:37:13,333 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:37:13,484 - MLEngine - ERROR - Error in NN prediction: input.size(-1) must be equal to input_size. Expected 796, got 40
+2025-11-09 12:37:13,493 - TradingBot - INFO - ML Confidence for XAUUSD.s: 0.000
+2025-11-09 12:37:13,637 - ICTStrategy - ERROR - Error finding ICT opportunity: ufunc 'subtract' did not contain a loop with signature matching types (dtype('<U7'), dtype('float64')) -> None
+2025-11-09 12:37:13,738 - TradingBot - INFO - Generated BUY signal from multi_timeframe_momentum with confidence 0.532
+2025-11-09 12:37:13,740 - TradingBot - INFO - Total signals generated for XAUUSD.s: 1
+2025-11-09 12:37:13,740 - Backtester - INFO - Generated 1 signals for XAUUSD.s on 2025-11-06
+2025-11-09 12:37:13,740 - Backtester - INFO -   - BUY | multi_timeframe_momentum | Conf: 0.532
+2025-11-09 12:37:13,741 - Backtester - ERROR - Error executing trade: 'TradeSignal' object has no attribute 'direction'
+2025-11-09 12:37:13,747 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:37:13,755 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:37:13,755 - Backtester - INFO - Obtained 3 timeframes for XAUUSD.s
+2025-11-09 12:37:13,755 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:37:13,923 - MLEngine - ERROR - Error in NN prediction: input.size(-1) must be equal to input_size. Expected 796, got 40
+2025-11-09 12:37:13,925 - TradingBot - INFO - ML Confidence for XAUUSD.s: 0.000
+2025-11-09 12:37:14,005 - ICTStrategy - ERROR - Error finding ICT opportunity: ufunc 'subtract' did not contain a loop with signature matching types (dtype('<U7'), dtype('float64')) -> None
+2025-11-09 12:37:14,136 - TradingBot - INFO - Total signals generated for XAUUSD.s: 0
+2025-11-09 12:37:14,138 - Backtester - INFO - No valid signals for XAUUSD.s on 2025-11-07
+2025-11-09 12:37:14,138 - Backtester - INFO - Backtest completed for XAUUSD.s. Net profit: $0.00
+2025-11-09 12:37:14,138 - Backtesting - INFO -   XAUUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:37:14,138 - Backtesting - INFO - Backtesting USDJPY.s...
+2025-11-09 12:37:14,139 - Backtester - INFO - Starting backtest for USDJPY.s from 2025-10-30 12:37:13.301323 to 2025-11-09 12:37:13.301323
+2025-11-09 12:37:14,139 - Backtester - INFO - Fetching 360 bars for USDJPY.s H1
+2025-11-09 12:37:14,145 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:37:14,147 - Backtester - INFO - Successfully retrieved 155 bars for USDJPY.s H1
+2025-11-09 12:37:14,156 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:37:14,162 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:37:14,162 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:37:14,163 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:37:14,316 - MLEngine - ERROR - Error in NN prediction: input.size(-1) must be equal to input_size. Expected 796, got 40
+2025-11-09 12:37:14,318 - TradingBot - INFO - ML Confidence for USDJPY.s: 0.000
+2025-11-09 12:37:14,399 - ICTStrategy - ERROR - Error finding ICT opportunity: ufunc 'subtract' did not contain a loop with signature matching types (dtype('<U7'), dtype('float64')) -> None
+2025-11-09 12:37:14,510 - TradingBot - INFO - Total signals generated for USDJPY.s: 0
+2025-11-09 12:37:14,511 - Backtester - INFO - No valid signals for USDJPY.s on 2025-11-06
+2025-11-09 12:37:14,518 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:37:14,525 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:37:14,525 - Backtester - INFO - Obtained 3 timeframes for USDJPY.s
+2025-11-09 12:37:14,525 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:37:14,712 - MLEngine - ERROR - Error in NN prediction: input.size(-1) must be equal to input_size. Expected 796, got 40
+2025-11-09 12:37:14,713 - TradingBot - INFO - ML Confidence for USDJPY.s: 0.000
+2025-11-09 12:37:14,794 - ICTStrategy - ERROR - Error finding ICT opportunity: ufunc 'subtract' did not contain a loop with signature matching types (dtype('<U7'), dtype('float64')) -> None
+2025-11-09 12:37:14,915 - TradingBot - INFO - Total signals generated for USDJPY.s: 0
+2025-11-09 12:37:14,916 - Backtester - INFO - No valid signals for USDJPY.s on 2025-11-07
+2025-11-09 12:37:14,916 - Backtester - INFO - Backtest completed for USDJPY.s. Net profit: $0.00
+2025-11-09 12:37:14,917 - Backtesting - INFO -   USDJPY.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:37:14,917 - Backtesting - INFO - Backtesting EURUSD.s...
+2025-11-09 12:37:14,917 - Backtester - INFO - Starting backtest for EURUSD.s from 2025-10-30 12:37:13.301323 to 2025-11-09 12:37:13.301323
+2025-11-09 12:37:14,917 - Backtester - INFO - Fetching 360 bars for EURUSD.s H1
+2025-11-09 12:37:14,924 - RobustDataFetcher - INFO - Successfully connected to MT5
+2025-11-09 12:37:14,926 - Backtester - INFO - Successfully retrieved 155 bars for EURUSD.s H1
+2025-11-09 12:37:14,935 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:37:14,942 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:37:14,942 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:37:14,942 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:37:15,086 - MLEngine - ERROR - Error in NN prediction: input.size(-1) must be equal to input_size. Expected 796, got 40
+2025-11-09 12:37:15,088 - TradingBot - INFO - ML Confidence for EURUSD.s: 0.000
+2025-11-09 12:37:15,149 - ICTStrategy - ERROR - Error finding ICT opportunity: ufunc 'subtract' did not contain a loop with signature matching types (dtype('<U7'), dtype('float64')) -> None
+2025-11-09 12:37:15,261 - TradingBot - INFO - Total signals generated for EURUSD.s: 0
+2025-11-09 12:37:15,262 - Backtester - INFO - No valid signals for EURUSD.s on 2025-11-06
+2025-11-09 12:37:15,270 - MT5DataManager - INFO - Successfully connected to MT5
+2025-11-09 12:37:15,278 - MT5DataManager - INFO - Disconnected from MT5
+2025-11-09 12:37:15,279 - Backtester - INFO - Obtained 3 timeframes for EURUSD.s
+2025-11-09 12:37:15,279 - TradingBot - INFO - Using provided multi-timeframe data: ['M15', 'H1', 'H4']
+2025-11-09 12:37:15,461 - MLEngine - ERROR - Error in NN prediction: input.size(-1) must be equal to input_size. Expected 796, got 40
+2025-11-09 12:37:15,464 - TradingBot - INFO - ML Confidence for EURUSD.s: 0.000
+2025-11-09 12:37:15,568 - ICTStrategy - ERROR - Error finding ICT opportunity: ufunc 'subtract' did not contain a loop with signature matching types (dtype('<U7'), dtype('float64')) -> None
+2025-11-09 12:37:15,696 - TradingBot - INFO - Total signals generated for EURUSD.s: 0
+2025-11-09 12:37:15,697 - Backtester - INFO - No valid signals for EURUSD.s on 2025-11-07
+2025-11-09 12:37:15,697 - Backtester - INFO - Backtest completed for EURUSD.s. Net profit: $0.00
+2025-11-09 12:37:15,697 - Backtesting - INFO -   EURUSD.s Results: Trades: 0, Win Rate: 0.0%, Net Profit: $0.00
+2025-11-09 12:37:15,699 - Backtesting - INFO - Backtesting completed! Results saved to backtest_results.json
